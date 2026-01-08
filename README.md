@@ -1,6 +1,6 @@
 # Bright Data의 スクレイピングプロキシ
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/proxy-types) 
+[![Promo](https://github.com/bright-kr/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/proxy-types) 
 
 ## Bright Data 소개
 Bright Data는 전 세계 20,000명 이상의 고객에게 서비스를 제공하는 수상 경력의 선도적인 プロキシ 제공업체입니다. 1억 개 이상의 プロキ시 IP, 동급 최고 수준의 기술, 그리고 모든 국가, 도시, 통신사 및 ASN을 타겟팅할 수 있는 역량을 통해 당사의 プロキ시 서비스는 개발자에게 최고의 선택지입니다.
@@ -29,7 +29,7 @@ Bright Data는 전 세계 20,000명 이상의 고객에게 서비스를 제공�
   - **339 GB**: $5.88/GB, $1999/월.
   - **Enterprise 플랜**: 대규모 요구 사항을 위한 맞춤 솔루션을 제공합니다.
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/proxy-types) 
+[![Promo](https://github.com/bright-kr/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/proxy-types) 
 
 ## レジデンシャルプロキ시 시작하기
 1. **무료 체험 시작**: 신용카드가 필요하지 않습니다.
