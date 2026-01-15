@@ -1,22 +1,22 @@
-# Bright Data의 スクレイピングプロキシ
+# Bright Data의 스크레이핑프록시
 
 [![Promo](https://github.com/bright-kr/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/proxy-types) 
 
 ## Bright Data 소개
-Bright Data는 전 세계 20,000명 이상의 고객에게 서비스를 제공하는 수상 경력의 선도적인 プロキシ 제공업체입니다. 1억 개 이상의 プロキ시 IP, 동급 최고 수준의 기술, 그리고 모든 국가, 도시, 통신사 및 ASN을 타겟팅할 수 있는 역량을 통해 당사의 プロキ시 서비스는 개발자에게 최고의 선택지입니다.
+Bright Data는 전 세계 20,000명 이상의 고객에게 서비스를 제공하는 수상 경력의 선도적인 프록시 제공업체입니다. 1억 개 이상의 プロキ시 IP, 동급 최고 수준의 기술, 그리고 모든 국가, 도시, 통신사 및 ASN을 타겟팅할 수 있는 역량을 통해 당사의 プロキ시 서비스는 개발자에게 최고의 선택지입니다.
 
-## レジデンシャルプロキシ
-정밀한 타겟팅, 타의 추종을 불허하는 안정성, 그리고 빠른 응답 시간을 제공하도록 설계된 Bright Data의 [スクレイピングプロキシ](https://brightdata.co.kr/solutions/scraping-proxy)로 원활한 スクレイピング을 경험해 보십시오.
+## レジデンシャル프록시
+정밀한 타겟팅, 타의 추종을 불허하는 안정성, 그리고 빠른 응답 시간을 제공하도록 설계된 Bright Data의 [스크레이핑프록시](https://brightdata.co.kr/solutions/scraping-proxy)로 원활한 스크레이핑을 경험해 보십시오.
 
 - **72M+ レジデンシャル IP**
-- **스티키 및 ローテーティングプロキシ 세션**
+- **스티키 및 ローテーティング프록시 세션**
 - **99.95% 성공률**
 - **HTTP(S) & SOCKS5 지원**
-- **ジオロケーション 타겟팅(무료)**
+- **지오로케이션 타겟팅(무료)**
 
 ## 주요 기능
-- **글로벌 커버리지**: [195개 국가](https://brightdata.co.kr/locations)에서 사용 가능한 レジデンシャルプロキシ를 제공합니다.
-- **높은 성공률**: スクレイピング 프로젝트에서 최대 99.95%의 성공률을 달성합니다.
+- **글로벌 커버리지**: [195개 국가](https://brightdata.co.kr/locations)에서 사용 가능한 レジデンシャル프록시를 제공합니다.
+- **높은 성공률**: 스크레이핑 프로젝트에서 최대 99.95%의 성공률을 달성합니다.
 - **빠른 응답**: 평균 응답 시간은 약 ~0.7초입니다.
 - **윤리적 소싱**: 모든 プロキ시는 사용자로부터 명시적 동의를 받아 수집됩니다.
 - **무제한 동시 세션**: 제한 없이 운영을 확장할 수 있습니다.
@@ -120,19 +120,19 @@ require('request-promise')({
 curl --proxy brd.superproxy.io:33335 --proxy-user brd-customer-[your customerID]-zone-residential:[your password] -k "https://geo.brdtest.com/mygeo.json"
 ```
 
-## モバイルプロキシ
-전 세계 수백만 개의 3G, 4G, 5G IP를 제공하는 Bright Data의 [モバイルプロキシ 네트워크](https://brightdata.co.kr/proxy-types/mobile-proxies)로 실제 모바일 사용자처럼 인터넷에 액세스하십시오.
+## モバイル프록시
+전 세계 수백만 개의 3G, 4G, 5G IP를 제공하는 Bright Data의 [モバイル프록시 네트워크](https://brightdata.co.kr/proxy-types/mobile-proxies)로 실제 모바일 사용자처럼 인터넷에 액세스하십시오.
 
 - **7,000,000+ モバイル IP**
 - **3G/4G/5G 모바일 IP**
 - **24/7 지원과 함께 99.99% 업타임**
-- **ジオロケーション 타겟팅(무료)**
+- **지오로케이션 타겟팅(무료)**
 
 ## 주요 기능
 - **글로벌 범위**: [195개 국가](https://brightdata.co.kr/locations)에 걸친 모바일 IP에 액세스합니다.
 - **높은 성공률**: 데이터 수집 및 테스트 작업에서 최대 99.9%의 성공률을 달성합니다.
 - **실제 모바일 연결**: 모바일 IP는 실제 네트워크의 실제 디바이스에서 소싱됩니다.
-- **무제한 확장**: 同時接続 세션과 고가용성 인프라로 확장할 수 있습니다.
+- **무제한 확장**: 동시 연결 세션과 고가용성 인프라로 확장할 수 있습니다.
 - **통신사 수준 타겟팅**: 특정 통신사별로 타겟팅하여 심층적이고 정확한 인사이트를 제공합니다.
 
 ## 요금제
@@ -234,11 +234,11 @@ require('request-promise')({
 curl --proxy brd.superproxy.io:22225 --proxy-user brd-customer-[your customerID]-zone-mobile:[your password] -k "https://geo.brdtest.com/mygeo.json"
 ```
 
-## ISPプロキシ
-ISP로부터 직접 소싱된 IP를 통해 안전하고 안정적이며 고속의 데이터 수집을 수행할 수 있도록, Bright Data의 방대한 [ISPプロキシ 네트워크](https://brightdata.co.kr/proxy-types/isp-proxies)를 활용하십시오.
+## ISP프록시
+ISP로부터 직접 소싱된 IP를 통해 안전하고 안정적이며 고속의 데이터 수집을 수행할 수 있도록, Bright Data의 방대한 [ISP프록시 네트워크](https://brightdata.co.kr/proxy-types/isp-proxies)를 활용하십시오.
 
 - **700,000+ ISP IP**
-- 장기 안정성을 제공하는 **スタティックプロキシ レジデンシャル IP**
+- 장기 안정성을 제공하는 **スタティック프록시 レジデンシャル IP**
 - **99.9% 성공률**
 - **HTTP(S) & SOCKS5 지원**
 - **국가 단위 타겟팅 무료 제공**
@@ -362,8 +362,8 @@ require('request-promise')({
 curl --proxy brd.superproxy.io:22225 --proxy-user brd-customer-[your customerID]-zone-isp:[your password] -k "https://geo.brdtest.com/mygeo.json"
 ```
 
-## データセンタープロキシ
-신뢰할 수 있는 데이터 수집과 Webスクレイピング을 위해, 압도적인 규모와 속도를 제공하는 Bright Data의 방대한 [データセンタープロキシ 네트워크](https://brightdata.co.kr/proxy-types/datacenter-proxies)를 활용하십시오.
+## データセンター프록시
+신뢰할 수 있는 데이터 수집과 Web스크레이핑을 위해, 압도적인 규모와 속도를 제공하는 Bright Data의 방대한 [データセンター프록시 네트워크](https://brightdata.co.kr/proxy-types/datacenter-proxies)를 활용하십시오.
 
 - **770,000+ データセンター IP**
 - **[공유(Shared)](https://brightdata.co.kr/solutions/shared-proxies) 및 [전용(Dedicated)](https://brightdata.co.kr/solutions/dedicated-proxies) IP 옵션**
@@ -373,10 +373,10 @@ curl --proxy brd.superproxy.io:22225 --proxy-user brd-customer-[your customerID]
 
 ## 주요 기능
 - **글로벌 범위**: [98개 국가](https://brightdata.co.kr/locations)에 걸친 データセンター IP에 액세스합니다.
-- **높은 성공률**: スクレイピング 작업에서 최대 99.9%의 성공률을 달성합니다.
+- **높은 성공률**: 스크레이핑 작업에서 최대 99.9%의 성공률을 달성합니다.
 - **빠르고 신뢰할 수 있음**: 99.99% 네트워크 업타임과 빠른 연결 속도를 제공합니다.
 - **맞춤형 옵션**: 필요에 따라 공유 또는 전용 IP를 선택할 수 있습니다.
-- **무제한 확장**: 제한 없이 同時接続 세션을 지원합니다.
+- **무제한 확장**: 제한 없이 동시 연결 세션을 지원합니다.
 
 ## 요금제
 - **종량제(Pay As You Go)**: 월 약정 없이 $0.6/GB로 이용 가능합니다.
